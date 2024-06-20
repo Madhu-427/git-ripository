@@ -1,0 +1,72 @@
+body{
+    background-color: aqua;
+}
+img {
+    width: 300px;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    border-radius: 15px;
+}
+#i3 {
+    position: relative;
+    z-index: 20;
+}
+#i4{
+    position: relative;
+    right: 200px;
+    z-index: 19;
+}
+#i2{
+    position: relative;
+    left: 200px;
+    z-index: 19;
+}
+#i1 {
+    position: relative;
+    left: 400px;
+    z-index: 18;
+}
+#i5 {
+    position: relative;
+    bottom: 304px;
+    left: 290px;
+    z-index: 17;
+}
+#i6 {
+    position: relative;
+    bottom: 304px;
+    right: 120px;
+    z-index: 16;
+}
+#i8 {
+    position: relative;
+    bottom: 304px;
+    right: 100px;
+    z-index: 17;
+}
+#i7 {
+    position: relative;
+    bottom: 304px;
+    left: 310px;
+    z-index: 16;
+}
+#i9 {
+    position: relative;
+    bottom: 608px;
+    left: 75px;
+    z-index: 15;
+}
+#i10 {
+    position: relative;
+    bottom: 608px;
+    left: 710px;
+    z-index: 15;
+}
+#i11 {
+    position: relative;
+    bottom: 608px;
+    left:500px;
+    z-index: 14;
+}
